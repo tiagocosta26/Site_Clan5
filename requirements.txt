@@ -3,7 +3,7 @@ gunicorn
 Flask-Bcrypt
 icalendar
 flask_sqlalchemy
-psycopg2-binary
+psycopg[binary]
 Werkzeug
 python-dotenv
 cloudinary
